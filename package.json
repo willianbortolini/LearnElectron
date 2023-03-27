@@ -1,0 +1,23 @@
+{
+    "name": "learnelectron",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/willianbortolini/LearnElectron.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/willianbortolini/LearnElectron/issues"
+    },
+    "homepage": "https://github.com/willianbortolini/LearnElectron#readme",
+    "devDependencies": {
+        "electron": "^23.2.0"
+    }
+}
